@@ -2664,3 +2664,50 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.aga.mx.mi
 2020-05-21 15:34:48,366 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-05-21 15:34:48,370 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-21 15:34:48,370 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:04:03,978 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @5594310ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-05-21 16:04:04,465 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.18.v20190429; built: 2019-05-07T14:00:14.833Z; git: e1bc35120a6617ee3df052294e433f3a25ce7097; jvm 11.0.7+10
+2020-05-21 16:04:04,549 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-05-21 16:04:04,550 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-05-21 16:04:04,554 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-05-21 16:04:04,614 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@68a3f2ea{/help,null,AVAILABLE}
+2020-05-21 16:04:04,649 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@385c1748{HTTP/1.1,[http/1.1]}{127.0.0.1:50127}
+2020-05-21 16:04:04,649 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @5594981ms
+2020-05-21 16:04:04,650 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-05-21 16:05:40,404 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:05:40,405 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-21 16:05:40,411 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-21 16:05:40,415 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:05:40,416 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:09:19,652 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:09:19,653 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-21 16:09:19,656 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-21 16:09:19,660 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:09:19,660 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:14:26,086 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:14:26,087 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-21 16:14:26,092 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-21 16:14:26,097 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:14:26,097 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:16:08,395 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:16:08,396 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-21 16:16:08,397 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-21 16:16:08,401 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:16:08,401 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:16:44,407 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:16:44,408 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-21 16:16:44,410 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-21 16:16:44,413 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:16:44,413 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:17:06,463 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:17:06,465 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-21 16:17:06,466 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-21 16:17:06,470 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:17:06,470 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:28:33,079 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:28:33,080 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-21 16:28:33,082 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-21 16:28:33,086 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-21 16:28:33,086 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/angelgalicia/Angelius/microservicios/microservicios-respuestas/src/test/resources
+2020-05-21 16:30:06,796 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@385c1748{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2020-05-21 16:30:06,797 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2020-05-21 16:30:06,813 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@68a3f2ea{/help,null,UNAVAILABLE}

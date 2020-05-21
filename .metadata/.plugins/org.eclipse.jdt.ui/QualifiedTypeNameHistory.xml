@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="javax.persistence.Column"/>
     <fullyQualifiedTypeName name="javax.persistence.PrePersist"/>
     <fullyQualifiedTypeName name="javax.persistence.Temporal"/>
     <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.commons.services.CommonService"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.commons.services.CommonServiceImpl"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.examenes.models.repository.ExamenRepository"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.commons.controllers.CommonController"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.examenes.services.ExamenService"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.examenes.models.entity.Examen"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
-    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.examenes.models.entity.Pregunta"/>
     <fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.commons.examenes.models.entity.Examen"/>
-    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
     <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
     <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnoreProperties"/>
@@ -55,9 +46,18 @@
     <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
     <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
-    <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.respuestas.models.entity.Respuesta"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.respuestas.models.repository.RespuestaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.respuestas.services.RespuestaService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.aga.mx.microservicios.app.respuestas.models.entity.Respuesta"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
 </qualifiedTypeNameHistroy>
