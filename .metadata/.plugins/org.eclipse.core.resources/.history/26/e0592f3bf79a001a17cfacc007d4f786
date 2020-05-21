@@ -1,0 +1,5 @@
+package com.aga.mx.microservicios.app.respuestas.services;
+
+public interface RespuestaService {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.aga.mx.microservicios.usuarios&apos; to &apos;com.aga.mx.microservicios.app.eureka&apos;&#x0A;- Original project: &apos;microservicios-eureka&apos;&#x0A;- Original element: &apos;microservicios-eureka/src/main/java/com.aga.mx.microservicios.usuarios&apos;&#x0A;- Renamed element: &apos;microservicios-eureka/src/main/java/com.aga.mx.microservicios.app.eureka&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.aga.mx.microservicios.usuarios&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.aga.mx.microservicios.usuarios" name="com.aga.mx.microservicios.app.eureka" qualified="false" references="true" stamp="1588618736345" textual="false" version="1.0"/>
+</session>
