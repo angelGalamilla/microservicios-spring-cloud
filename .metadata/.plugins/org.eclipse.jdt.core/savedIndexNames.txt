@@ -70,7 +70,6 @@ INDEX VERSION 1.131+/Users/angelgalicia/Angelius/microservicios/.metadata/.plugi
 2350826155.index
 1746296952.index
 2222502993.index
-3823739753.index
 515222981.index
 2143743390.index
 1760618679.index
