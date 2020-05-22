@@ -1,7 +1,0 @@
-package com.aga.mx.microservicios.app.respuestas.models.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface RespuestaRepository extends CrudRepository<T, ID> {
-
-}

@@ -1,5 +1,0 @@
-package com.aga.mx.microservicios.app.examenes.models.repository;
-
-public interface AsignaturaRepository {
-
-}
