@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aga.mx.microservicios.usuarios</groupId>
-	<artifactId>commons-microservicios-usuarios</artifactId>
+	<artifactId>microservicios-usuarios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>commons-microservicios-1</name>
+	<name>microservicios-usuarios</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
