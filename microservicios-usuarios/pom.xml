@@ -21,13 +21,13 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.aga.mx.microservicios.commons.examenes</groupId>
-			<artifactId>microservicios.examenes</artifactId>
+			<groupId>com.aga.mx.commons.examenes</groupId>
+			<artifactId>commons.examenes</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>com.aga.mx.microservicios.commons.alumnos</groupId>
-			<artifactId>microservicios.alumnos</artifactId>
+			<groupId>com.aga.mx.commons.alumnos</groupId>
+			<artifactId>commons.alumnos</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
